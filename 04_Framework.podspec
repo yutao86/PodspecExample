@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
     s.homepage         = 'https://www.example.com'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'Tom Yu' => 'yutao86@gmail.com' }
-    s.source           = { :git => 'https://github.com/yutao86/example-podspec.git' }
+    s.source           = { :git => 'https://github.com/yutao86/PodspecExample.git' }
 
     s.ios.deployment_target = '11.0'
     s.vendored_frameworks = 'MyFramework.framework'
